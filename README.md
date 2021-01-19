@@ -8,4 +8,4 @@ Get to know more about Apple Documentation, AVFoundation on playing audio and li
 Function with inputs 
 
 ## What does it look like??
-<img src="https://github.com/Helen-Noe/Xylophone/blob/main/Xylophone.gif" width="397" height="595">
+<img src="https://github.com/Helen-Noe/Xylophone/blob/main/Xylophone.gif" width="276" height="580">
